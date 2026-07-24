@@ -2,6 +2,14 @@
 
 Coleccion de sketches y notas para Arduino.
 
+## PlatformIO
+
+Para iniciar el dashboard de PlatformIO:
+
+```bash
+npx platformio-mcp dashboard
+```
+
 ## Referencias
 
 - [Arduino UNO R4 WiFi Product Reference Manual](docs/reference/arduino-uno-r4-wifi-product-reference-manual.pdf): manual de referencia de la placa, util para pinout, alimentacion, perifericos y limites generales.
